@@ -27,8 +27,7 @@ XGBoost achieved the best performance with the highest ROC-AUC and a strong bala
 - Matplotlib
 
 ## Dataset
-Kaggle – Financial Fraud Detection Dataset  
-(Link not included due to size constraints)
-
+The dataset used in this project is publicly available on Kaggle:
+https://www.kaggle.com/datasets/darshandalvi12/fraud-detection-in-financial-transactions
 ## Author
 Rishabh Mittal
